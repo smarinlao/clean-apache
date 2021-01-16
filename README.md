@@ -9,6 +9,7 @@ Script that:
 - Enable swap
 - Enable HTTP
 - Recheck the memory status
+
 Give permissions and execute:
 
 <code>chmod 754 cleanApacheServer.sh</code>
