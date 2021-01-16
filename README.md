@@ -10,5 +10,7 @@ Script that:
 - Enable HTTP
 - Recheck the memory status
 Give permissions and execute:
+
 <code>chmod 754 cleanApacheServer.sh</code>
+
 <code>sudo sh cleanApacheServer.sh</code>
